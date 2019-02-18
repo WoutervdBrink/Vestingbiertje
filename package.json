@@ -1,0 +1,53 @@
+{
+  "name": "vestingbiertje",
+  "version": "1.0.0",
+  "description": "A tool to quickly find a special beer you like in Vestingbar",
+  "main": "src/index.js",
+  "author": {
+    "name": "Wouter van den Brink",
+    "email": "git@woutervdb.com",
+    "url": "https://www.woutervdb.com/"
+  },
+  "homepage": "https://github.com/WoutervdBrink/Vestingbiertje",
+  "bugs": {
+    "url": "https://github.com/WoutervdBrink/Vestingbiertje/issues",
+    "email": "git@woutervdb.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WoutervdBrink/Vestingbiertje.git"
+  },
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@babel/core": "^7.0.0-0",
+    "@babel/plugin-proposal-class-properties": "^7.3.3",
+    "@babel/plugin-proposal-decorators": "^7.3.0",
+    "@babel/plugin-proposal-object-rest-spread": "^7.3.2",
+    "@vue/component-compiler-utils": "^2.5.2",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.14.0",
+    "eslint-plugin-vue": "^5.2.1",
+    "parcel": "^1.11.0",
+    "parcel-plugin-static-files-copy": "^2.0.0",
+    "parcel-plugin-sw-cache": "^0.2.7",
+    "vue-template-compiler": "^2.6.6"
+  },
+  "scripts": {
+    "clean": "rimraf public",
+    "lint": "eslint --ext .js,.vue src",
+    "dev": "parcel index.html",
+    "build": "yarn run clean && yarn run lint && parcel build -d public --no-source-maps index.html --public-url=/"
+  },
+  "dependencies": {
+    "register-service-worker": "^1.6.1",
+    "vue": "^2.6.6",
+    "vue-hot-reload-api": "^2.3.2",
+    "vue-i18n": "^8.8.2",
+    "vue-meta": "^1.5.8",
+    "vue-property-decorator": "^7.3.0",
+    "vue-router": "^3.0.2",
+    "vuex": "^3.1.0",
+    "vuex-class": "^0.3.1"
+  }
+}

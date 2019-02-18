@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Vestingbiertje</title>
+
+        <meta name="description" content="A tool to quickly find a special beer you like in Vestingbar.">
+
+        <link rel="stylesheet" href="./src/style.css">
+
+        <meta name="viewport" content="width=device-width">
+
+        <link rel="manifest" href="/manifest.webmanifest">
+
+        <link rel="icon" sizes="192x192" href="./assets/img/icon-192.png">
+        <link rel="icon" sizes="512x512" href="./assets/img/icon-512.png">
+        <link rel="apple-touch-icon" href="./assets/img/icon-512.png">
+
+        <meta name="theme-color" content="#470214">
+    </head>
+    <body>
+        <div id="app"></div>
+
+        <noscript><p>Unfortunately, Javascript is required to use this website. Please enable Javascript to continue.</p></noscript>
+
+        <script src="src/index.js"></script>
+        <script type="text/javascript">
+            // Matomo tracking
+            var _paq = _paq || [];
+            _paq.push(['trackPageView']);
+            _paq.push(['enableLinkTracking']);
+            (function() {
+                var u="//piwik.prod1.dutch1.nl/";
+                _paq.push(['setTrackerUrl', u+'piwik.php']);
+                _paq.push(['setSiteId', '4']);
+                var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+                g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+            })();
+        </script>
+    </body>
+</html>

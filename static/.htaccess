@@ -1,0 +1,10 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule . index.html [L]
+
+ExpiresActive On
+ExpiresDefault A300
+ExpiresByType text/css A3600
+ExpiresByType text/svg A31536000
+ExpiresByType text/javascript A31536000

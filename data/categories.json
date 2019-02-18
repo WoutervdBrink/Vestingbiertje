@@ -1,0 +1,79 @@
+[
+    {
+        "id": "low_in_alcohol",
+        "name": {
+            "en": "Low in alcohol",
+            "nl": "Laag in alcohol"
+        }
+    },
+    {
+        "id": "other",
+        "name": {
+            "en": "Other",
+            "nl": "Overig"
+        }
+    },
+    {
+        "id": "ipa",
+        "name": {
+            "en": "IPA",
+            "nl": "IPA"
+        }
+    },
+    {
+        "id": "fruit",
+        "name": {
+            "en": "Fruit beer",
+            "nl": "Fruitbier"
+        }
+    },
+    {
+        "id": "sour",
+        "name": {
+            "en": "Sour",
+            "nl": "Zuur"
+        }
+    },
+    {
+        "id": "heavy_dark",
+        "name": {
+            "en": "Heavy dark",
+            "nl": "Zwaar donker"
+        }
+    },
+    {
+        "id": "trappist",
+        "name": {
+            "en": "Trappist",
+            "nl": "Trappist"
+        }
+    },
+    {
+        "id": "dark",
+        "name": {
+            "en": "Dark",
+            "nl": "Donker"
+        }
+    },
+    {
+        "id": "heavy_blonde",
+        "name": {
+            "en": "Heavy blonde / tripel",
+            "nl": "Zwaar blond / tripel"
+        }
+    },
+    {
+        "id": "blonde",
+        "name": {
+            "en": "Blonde",
+            "nl": "Blond"
+        }
+    },
+    {
+        "id": "amber",
+        "name": {
+            "en": "Amber",
+            "nl": "Amber"
+        }
+    }
+]

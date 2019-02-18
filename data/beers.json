@@ -1,0 +1,492 @@
+[
+    {
+        "id": "erdinger_blue",
+        "name": "Erdinger Alkoholfrei",
+        "abv": 0.5,
+        "category": "low_in_alcohol",
+        "description": {
+            "en": "Fresh low-alcohol white beer with hints of banana and clove.",
+            "nl": "Frisse alcoholarme weizen waarin  vleugjes banaan en kruidnagel te ontdekken zijn."
+        }
+    },
+    {
+        "id": "grolsch_0",
+        "name": "Grolsch 0.0%",
+        "abv": 0.0,
+        "category": "low_in_alcohol",
+        "description": {
+            "en": "The non-alcoholic variant of Grolsch Pilsner.",
+            "nl": "De alcoholvrije variant van Grolsch Pilsner."
+        }
+    },
+    {
+        "id": "radler_2",
+        "name": "Grolsch Radler 2.0%",
+        "abv": 2,
+        "category": "low_in_alcohol",
+        "description": {
+            "en": "Fresh radler made of Grolsch Premium Pilsner and lemon and orange juice.",
+            "nl": "Frisse radler gemaakt van Grolsch Premium Pilsener met citroen- en sinaasappelsap."
+        }
+    },
+    {
+        "id": "radler_0",
+        "name": "Grolsch Radler 0.0%",
+        "abv": 0,
+        "category": "low_in_alcohol",
+        "description": {
+            "en": "Fresh radler made of non-alcoholic pilsner and lemon and orange juice.",
+            "nl": "Frisse radler gemaakt van alcoholvrije pils en citroen- en sinaasappelsap."
+        }
+    },
+    {
+        "id": "crabbies",
+        "name": "Crabbies Ginger Ale",
+        "abv": 4,
+        "category": "other",
+        "description": {
+            "en": "A fresh ginger beer with a rich scent of ginger, citrus and exotic spices.",
+            "nl": "Een fris gemberbier met een krachtige geur van gember, citrus en exotische kruiden."
+        }
+    },
+    {
+        "id": "desperados",
+        "name": "Desperados",
+        "abv": 5.9,
+        "category": "other",
+        "description": {
+            "en": "Delicious sweet beer that combines the sweet taste of tequila with the bitterness of beer.",
+            "nl": "Heerlijk zoet biertje dat dat de zoete smaak van tequila combineert met de bitterheid van bier."
+        }
+    },
+    {
+        "id": "estrella",
+        "name": "Estrella Damn Daura",
+        "abv": 5.4,
+        "category": "other",
+        "description": {
+            "en": "Glutenfree clear and soft pilsner with fresh aromas of grains and hops.",
+            "nl": "Glutenvrij helder en zacht pilsener met frisse aroma’s van granen en hop."
+        }
+    },
+    {
+        "id": "urquell",
+        "name": "Pilsner Urquell",
+        "abv": 4.4,
+        "category": "other",
+        "description": {
+            "en": "The original pilsner!",
+            "nl": "Hét originele pils!"
+        }
+    },
+    {
+        "id": "punk",
+        "name": "Brewdog Punk IPA",
+        "abv": 5.6,
+        "category": "ipa",
+        "description": {
+            "en": "An India Pale Ale with a slightly sweet taste and the smell of tropical fruits and a hint of caramel with a bitter aftertaste because of its high hop content.",
+            "nl": "Een India Pale Ale met een licht zoete smaak en geur door de tropische vruchten en een vleugje karamel en een bittere nasmaak door het hoge hop gehalte."
+        }
+    },
+    {
+        "id": "hopverdomme",
+        "name": "Hopverdomme",
+        "abv": 7,
+        "category": "ipa",
+        "description": {
+            "en": "IPA with 7 Flemish hops.",
+            "nl": "IPA met 7 Vlaamse soorten hop."
+        }
+    },
+    {
+        "id": "jopen_mooie_nel",
+        "name": "Jopen Mooie Nel",
+        "abv": 6.5,
+        "category": "ipa",
+        "description": {
+            "en": "An IPA containing plenty of American hops, which creates bitterness with lots of fruity tones.",
+            "nl": "Een IPA met veel Amerikaanse hop die zorgt voor bitterheid met veel fruitige tonen."
+        }
+    },
+    {
+        "id": "troubadour_magma",
+        "name": "Troubadour Magma",
+        "abv": 9,
+        "category": "ipa",
+        "description": {
+            "en": "Orange-copper coloured beer which can be described as a crossing between an India Pale Ale and a tripel.",
+            "nl": "Oranje-koperkleurig bier van hoge gisting. Het is een tussenvorm tussen India Pale Ale en tripel (een “Tripel IPA”)."
+        }
+    },
+    {
+        "id": "apple_bandit",
+        "name": "Apple Bandit",
+        "abv": 4.5,
+        "category": "fruit",
+        "description": {
+            "en": "A refreshing apple cider, made using the best apples.",
+            "nl": "Een verfrissende appelcider, gemaakt van de allerbeste appels."
+        }
+    },
+    {
+        "id": "kasteel_rouge",
+        "name": "Kasteel Rouge",
+        "abv": 8,
+        "category": "fruit",
+        "description": {
+            "en": "Blend of Kasteel Donker and a sweet cherry liquor which gives it a  sweet and fruity cherry flavor.",
+            "nl": "Melange van Kasteel Donker en zoete kersenlikeur, waardoor het aan zijn heerlijk zoete en fruitige kersensmaak komt."
+        }
+    },
+    {
+        "id": "liefmans_fruitesse",
+        "name": "Liefmans Fruitesse",
+        "abv": 4.2,
+        "category": "fruit",
+        "description": {
+            "en": "Unique fresh beer made with natural fruit juices and has a pleasant refreshing sweet taste.",
+            "nl": "Uniek fris biertje gemaakt met natuurlijke vruchtensappen en heeft een aangenaam frisse zoete smaak."
+        }
+    },
+    {
+        "id": "orval",
+        "name": "Orval",
+        "abv": 6.2,
+        "category": "trappist",
+        "description": {
+            "en": "Nice amber Trappist beer with an intense bitterness and rich hoppy taste.",
+            "nl": "Mooi amberkleurig trappistenbier met een intense bitterheid en een rijke hoppige smaak."
+        }
+    },
+    {
+        "id": "rodenbach_grand_cru",
+        "name": "Rodenbach Grand Cru",
+        "abv": 6,
+        "category": "sour",
+        "description": {
+            "en": "Red-brown beer recognizable by its slight bitter and sour taste with scents of fine roasted malts.",
+            "nl": "Diep rood trappistenbier met een heerlijke fruitige smaak en een warme afdronk."
+        }
+    },
+    {
+        "id": "chimay_blauw",
+        "name": "Chimay Blauw",
+        "abv": 9,
+        "category": "heavy_dark",
+        "description": {
+            "en": "This strong Belgian Trappist beer has a fragrance of fresh yeast with a light, flowery rosy touch.",
+            "nl": "Dit krachtige Belgisch trappistenbier heeft een lichte, roosachtige bloementoets gekoppeld aan een aangename geur van verse gist."
+        }
+    },
+    {
+        "id": "kasteel_cuvee",
+        "name": "Kasteel Cuvée de Chateau",
+        "abv": 11,
+        "category": "heavy_dark",
+        "description": {
+            "en": "Strong, dark brown beer with a taste comparable to that of an aged Kasteel Donker, reminiscent of port.",
+            "nl": "Sterk, donker bruin bier met een smaak vergelijkbaar met die van een oude Kasteel Donker, die doet denken aan port."
+        }
+    },
+    {
+        "id": "gulden_draak",
+        "name": "Gulden Draak",
+        "abv": 10.5,
+        "category": "heavy_dark",
+        "description": {
+            "en": "Triple beer with aromas of coffee and roasted malt which results in a surprisingly rich taste of chocolate and caramel.",
+            "nl": "Tripel bier met een heerlijk aroma van koffie en gebrande mout en daardoor een verrassend rijke smaak van chocola en karamel."
+        }
+    },
+    {
+        "id": "hj_grand_prestige",
+        "name": "Hertog-Jan Grand Prestige",
+        "abv": 10,
+        "category": "heavy_dark",
+        "description": {
+            "en": "Brewed with four different malts this barley wine has a mature and full flavor where the sweetness and bitterness can be easily distinguished.",
+            "nl": "Met vier verschillende mouten gebrouwen gerstewijn dat een rijpe en volle smaak heeft waarin zoet en bitter goed te onderscheiden zijn."
+        }
+    },
+    {
+        "id": "kasteel_donker",
+        "name": "Kasteel Donker",
+        "abv": 11,
+        "category": "heavy_dark",
+        "description": {
+            "en": "Chocolate brown beer with aroma of malts and fruits, which gives the beer its sweet taste.",
+            "nl": "Chocoladebruine dubbel met aroma van mout en fruit, waardoor dit bier heerlijk zoet smaakt."
+        }
+    },
+    {
+        "id": "rochefort_10",
+        "name": "Rochefort 10",
+        "abv": 11.3,
+        "category": "heavy_dark",
+        "description": {
+            "en": "Dark red Trappist with delicious fruity taste and warm aftertaste.",
+            "nl": "Diep rood trappistenbier met een heerlijke fruitige smaak en een warme afdronk."
+        }
+    },
+    {
+        "id": "st_bernardus_abt_12",
+        "name": "St. Bernardus Abt. 12",
+        "abv": 10,
+        "category": "heavy_dark",
+        "description": {
+            "en": "Dark top fermented abbey beer with a tender full-bodied flavor and fruity aroma.",
+            "nl": "Donker abdijbier van hoge gisting met een zeer zachte volmondige smaak en fruitig aroma."
+        }
+    },
+    {
+        "id": "bax_koudvuur",
+        "name": "Bax Koudvuur",
+        "abv": 6.2,
+        "category": "dark",
+        "description": {
+            "en": "Smoky dark porter of smoked and roasted malts.",
+            "nl": "Rokerige donkere porter van gerookte en gebrande mouten."
+        }
+    },
+    {
+        "id": "chimay_rood",
+        "name": "Chimay Rood",
+        "abv": 7,
+        "category": "dark",
+        "description": {
+            "en": "Sweet, fruity dark ale with a coppery color.",
+            "nl": "Zoet, fruitig, donker bier met een koperen kleur."
+        }
+    },
+    {
+        "id": "gordons_finest",
+        "name": "Gordon's Finest Scottish Ale",
+        "abv": 8,
+        "category": "dark",
+        "description": {
+            "en": "Dark beer which combines bitter hops with a sweet and typical roasted malt flavor that gives the beer its warm character.",
+            "nl": "Donker bier dat bittere hopbellen combineert met een suikerzoet tintje en heeft een typische gebrande moutsmaak dat het bier zijn warme karakter geeft."
+        }
+    },
+    {
+        "id": "jopen_extra_stout",
+        "name": "Jopen Extra Stout",
+        "abv": 5.5,
+        "category": "dark",
+        "description": {
+            "en": "Typical Dutch stout, also called espresso under the beers because of its bitter roasted taste.",
+            "nl": "Typisch Nederlandse stout, die ook wel espresso onder de bieren genoemd wordt vanwege de gebrande bittere smaak."
+        }
+    },
+    {
+        "id": "leffe_bruin",
+        "name": "Leffe Bruin",
+        "abv": 6.5,
+        "category": "dark",
+        "description": {
+            "en": "Authentic abbey beer with aromas of roasted malts.",
+            "nl": "Authentiek abdijbier met aroma's van gebrande mouten."
+        }
+    },
+    {
+        "id": "westmalle_dubbel",
+        "name": "Westmalle Dubbel",
+        "abv": 7,
+        "category": "dark",
+        "description": {
+            "en": "Red-brown Trappist beer with a rich fruity and spicy flavor.",
+            "nl": "Roodbruin trappistenbier met een rijke fruitige en kruidige smaak."
+        }
+    },
+    {
+        "id": "barbar",
+        "name": "Barbãr",
+        "abv": 8,
+        "category": "heavy_blonde",
+        "description": {
+            "en": "Golden beer with a malt taste and subtle flavour of honey combined with notes of flowers, spices and citrus.",
+            "nl": "Goudkleurig bier met een smeuïge schuimkraag en een krachtige neus. De smaak van honing is duidelijk aanwezig en werd rijkelijk gecombineerd met toetsen van bloemen, kruiden en citrusvruchten."
+        }
+    },
+    {
+        "id": "delirium_tremens",
+        "name": "Delirium Tremens",
+        "abv": 8.5,
+        "category": "heavy_blonde",
+        "description": {
+            "en": "Cloudy golden triple with aroma of citrus. Has a sweet, creamy and bitter, slightly spicy aftertaste.",
+            "nl": "Licht troebele tripel met aroma van citrusfruit. Heeft een zoete, romige smaak en een bittere, licht kruidige afdronk."
+        }
+    },
+    {
+        "id": "duvel",
+        "name": "Duvel",
+        "abv": 8.5,
+        "category": "heavy_blonde",
+        "description": {
+            "en": "Blond top-fermented beer with re-fermentation in the bottle with a subtle bitterness and pleasant sweet taste of alcohol.",
+            "nl": "Blond bier van hoge gisting met nagisting op fles met een subtiele bitterheid en een aangenaam alcoholzoete smaak."
+        }
+    },
+    {
+        "id": "hopus",
+        "name": "Hopus",
+        "abv": 8.3,
+        "category": "heavy_blonde",
+        "description": {
+            "en": "Golden blond beer with citrus and fruity hints, full of flavor in its bitterness and interesting to drink with its own sediment.",
+            "nl": "Goudblond bier met citrus en fruitige hinten, vol van smaak in zijn bitterheid en interessant te drinken met het eigen bezinksel ernaast."
+        }
+    },
+    {
+        "id": "la_chouffe",
+        "name": "La Chouffe",
+        "abv": 8,
+        "category": "heavy_blonde",
+        "description": {
+            "en": "Unfiltered blond beer spiced with coriander and a slight hoppy taste.",
+            "nl": "Ongefilterd blond bier, gekruid met koriander en met een lichte hopsmaak."
+        }
+    },
+    {
+        "id": "tripel_karmeliet",
+        "name": "Tripel Karmeliet",
+        "abv": 8.4,
+        "category": "heavy_blonde",
+        "description": {
+            "en": "Blond, robust, smooth and fruity 3 grain beer, with final fermentation in the bottle.",
+            "nl": "Blond, pittig, zacht en fruitig 3-granenbier, hergist in fles."
+        }
+    },
+    {
+        "id": "westmalle_tripel",
+        "name": "Westmalle Tripel",
+        "abv": 9.5,
+        "category": "heavy_blonde",
+        "description": {
+            "en": "Clear golden Trappist beer with fruit flavors and tastes soft and creamy.",
+            "nl": "Helder goud gele trappist met fruitaroma’s en van smaak zacht en romig."
+        }
+    },
+    {
+        "id": "brugse_zot",
+        "name": "Brugse Zot",
+        "abv": 6,
+        "category": "blonde",
+        "description": {
+            "en": "Golden blond beer with a rich foam collar and a fruity yet spicy bouquet.",
+            "nl": "Goudblond bier met een rijke schuimkraag en een fruitig en kruidig aroma."
+        }
+    },
+    {
+        "id": "deugniet",
+        "name": "Deugniet",
+        "abv": 7.3,
+        "category": "blonde",
+        "description": {
+            "en": "This triple with a balanced combination of green apple and fine hops has little bitterness which makes it a smooth beer with a full character.",
+            "nl": "Deze tripel met een evenwichtige combinatie van groene appel en fijne hop heeft weinig bitterheid waardoor het een zacht bier is met een vol karakter."
+        }
+    },
+    {
+        "id": "franziskaner",
+        "name": "Franziskaner",
+        "abv": 5,
+        "category": "blonde",
+        "description": {
+            "en": "Cloudy golden weizen has a fresh taste with fruity accents and a slight bitter in the aftertaste.",
+            "nl": "Troebele geelgoude weizen heeft een frisse smaak met fruitige accenten en een licht bittertje in de afdronk."
+        }
+    },
+    {
+        "id": "gulpener_korenwolf",
+        "name": "Gulpener Korenwolf",
+        "abv": 5,
+        "category": "blonde",
+        "description": {
+            "en": "Four grains white beer with tones of young, whit blossom together with coriander and orange peel gives the beer a fresh, sweet and sour taste.",
+            "nl": "Viergranen witbier waar de tonen van jonge, witte bloesem samen met koriander en sinaasappelschil zorgen voor zowel een frisse, zoete als zure smaakbelevenis."
+        }
+    },
+    {
+        "id": "leffe_blond",
+        "name": "Leffe Blond",
+        "abv": 6.6,
+        "category": "blonde",
+        "description": {
+            "en": "Blond abbey beer with a sweet, fruity taste where a hint of bitterness comes trough with a spicy aftertaste of orange.",
+            "nl": "Blond abdijbier met een zoete, fruitige smaak waar een vleugje bitterheid doorheen komt met een pittige afdronk van sinaasappel."
+        }
+    },
+    {
+        "id": "saison_dupont",
+        "name": "Saison Dupont",
+        "abv": 6.5,
+        "category": "blonde",
+        "description": {
+            "en": "Blonde top fermentation beer with refermentation in the bottle.",
+            "nl": "Blond hogegistingsbier met hergisting op fles."
+        }
+    },
+    {
+        "id": "bush_amber",
+        "name": "Bush Amber",
+        "abv": 12,
+        "category": "amber",
+        "description": {
+            "en": "Heavy amber beer with a powerful bittersweet taste with hints of caramel, dark fruits and spices.",
+            "nl": "Zwaar amberkleurig bier met een krachtige, bitterzoete smaak en aroma’s van karamel, donker fruit en kruiden."
+        }
+    },
+    {
+        "id": "de_koninck",
+        "name": "De Koninck",
+        "abv": 5.2,
+        "category": "amber",
+        "description": {
+            "en": "A very comely amber top-fermented beer with a smooth head in the beginning and a hoppy aftertaste.",
+            "nl": "Zeer toegankelijk amberkleurig bier van hoge gisting met een soepele aanzet en hopbittere afdronk."
+        }
+    },
+    {
+        "id": "la_trappe_isidor",
+        "name": "La Trappe Isid'Or",
+        "abv": 7.5,
+        "category": "amber",
+        "description": {
+            "en": "A slightly sweet amber ale with a hint of caramel and a fruity aftertaste.",
+            "nl": "Een lightzoet amberbier met een hint van karamel en een fruitige afdronk."
+        }
+    },
+    {
+        "id": "la_trappe_quadrupel",
+        "name": "La Trappe Quadrupel",
+        "abv": 10,
+        "category": "amber",
+        "description": {
+            "en": "Warm and intens Trappist which tastes malty sweet en slightly roasted. Has a pleasant bitterness and a slightly sweet aftertaste.",
+            "nl": "Warme en intense trappist die moutig zoet en licht gebrand smaakt. Heeft een aangename bitter en een licht zoete afdronk."
+        }
+    },
+    {
+        "id": "pauwel_kwak",
+        "name": "Pauwel Kwak",
+        "abv": 8.4,
+        "category": "amber",
+        "description": {
+            "en": "Top fermented  amber beer with a soft malt aroma and fruity aftertaste.",
+            "nl": "Hoog gistend bier, amberkleurig, met een licht moutig aroma en een fruitige afdronk."
+        }
+    },
+    {
+        "id": "texels_skuumkoppe",
+        "name": "Texels Skuumkoppe",
+        "abv": 6,
+        "category": "amber",
+        "description": {
+            "en": "Dark white beer with a fruity taste and hints of almond and caramel.",
+            "nl": "Ambachtelijk gebrouwen donker witbier met een fruitige smaak met accenten van amandel en karamel."
+        }
+    }
+]
