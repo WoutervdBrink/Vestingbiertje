@@ -36,7 +36,7 @@
   "scripts": {
     "clean": "rimraf public",
     "lint": "eslint --ext .js,.vue src",
-    "dev": "parcel index.html",
+    "dev": "parcel index.html -d public",
     "build": "yarn run clean && yarn run lint && parcel build -d public --no-source-maps index.html --public-url=/"
   },
   "dependencies": {
